@@ -1,9 +1,5 @@
-# Welcome to your ByteSpeed Chatbot Workflow project
+## Welcome to your ByteSpeed Chatbot Workflow project
 
-
-## How can I edit this code?
-
-There are several ways of editing your application.
 
 **Use ByteSpeed Chatbot Workflow**
 
@@ -31,5 +27,6 @@ This project is built with:
 - React
 - shadcn-ui
 - Tailwind CSS
+- React Flow
 
 Made by <a href="https://github.com/aaadityaG">aditya</a>
